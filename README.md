@@ -10,9 +10,9 @@ To save files to disk on mobile or desktop apps, combine the path_provider plugi
 
 This recipe uses the following steps:
 
-1- Find the correct local path.
-2- Create a reference to the file location.
-3- Write data to the file.
+1- Find the correct local path.\
+2- Create a reference to the file location.\
+3- Write data to the file.\
 4- Read data from the file.
 
 ## Getting Started

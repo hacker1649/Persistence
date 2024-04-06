@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-You have to use the path_provider flutter plugin to persist data (read and write files) via filing "https://pub.dev/packages/path_provider". 
+You have to use the path_provider flutter plugin to persist data via filing https://pub.dev/packages/path_provider. 
 
 You may use the todo app tutorial that we built in class and extend it with this logic to persist the data.
 

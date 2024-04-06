@@ -6,6 +6,15 @@ You have to use the path_provider flutter plugin to persist data via filing http
 
 You may use the todo app tutorial that we built in class and extend it with this logic to persist the data.
 
+To save files to disk on mobile or desktop apps, combine the path_provider plugin with the dart:io library.
+
+This recipe uses the following steps:
+
+1- Find the correct local path.
+2- Create a reference to the file location.
+3- Write data to the file.
+4- Read data from the file.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
